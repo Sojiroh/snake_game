@@ -52,15 +52,16 @@ python main.py
 
 ## Code Structure
 
-The game is organized into three main classes:
+The game is organized into four main classes:
 
 - `Snake`: Manages the snake's body segments, movement, and behavior
 - `Food`: Handles food spawning and collision detection
 - `Game`: Controls the main game logic, rendering, and user input
+- `Options`: Controls the options menu
+
 
 ## Future Improvements
 
-- Add difficulty levels
 - Implement a high score system
 - Add sound effects
 - Create different game modes
